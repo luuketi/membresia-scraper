@@ -1,0 +1,7 @@
+# HTTP Cookie File for membresia.org by Genuinous @genuinous.
+# To download cookies for this tab click here, or download all cookies.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://membresia.org/landing/"
+#   2) curl --cookie cookies.txt "https://membresia.org/landing/"
+#   3) aria2c --load-cookies cookies.txt "https://membresia.org/landing/"
+#
