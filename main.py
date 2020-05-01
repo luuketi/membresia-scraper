@@ -2,6 +2,7 @@ import json
 import time
 import http.cookiejar as cjar
 import selenium
+import selenium.webdriver
 import vimeo_dl as vimeo
 from pprint import pprint as pp
 
